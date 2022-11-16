@@ -13,5 +13,6 @@ Aqui abaixo temos as bibliotecas utilizadas:
 - WordCloud
 - Counter
 - Streamlit
+---
 Além disso, o arquivo contém o conjunto original da qual foi usada para este fim, como também as funções usadas para facilitar o processo de análise dos dados.
  
